@@ -1,11 +1,14 @@
 // import Navbar from './Navbar';
 import './App.css';
-import Counter from './counter';
+import Timer from './timer';
+// import Counter from './counter';
 
 function App() {
   return (
 
-    <Counter/>
+    <Timer/>
+    // <Counter/>
+
     // <>
     //  <div className="App">
     //  <Navbar/>
